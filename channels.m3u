@@ -1,0 +1,1021 @@
+#EXTM3U
+#EXTINF:-1,Das Erste HD
+http://192.168.113.190:7522/upnp/channelstream/2359890582721931325%7CDas%20Erste%20HD.ts
+#EXTINF:-1,ZDF HD
+http://192.168.113.190:7522/upnp/channelstream/2359890548428909414%7CZDF%20HD.ts
+#EXTINF:-1,3sat HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544160156558%7C3sat%20HD.ts
+#EXTINF:-1,arte HD
+http://192.168.113.190:7522/upnp/channelstream/2359890582722586686%7Carte%20HD.ts
+#EXTINF:-1,KiKA HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544166710168%7CKiKA%20HD.ts
+#EXTINF:-1,ONE HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668641593480%7CONE%20HD.ts
+#EXTINF:-1,zdf_neo HD
+http://192.168.113.190:7522/upnp/channelstream/2359890548442016634%7Czdf%5Fneo%20HD.ts
+#EXTINF:-1,ZDFinfo HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544173263778%7CZDFinfo%20HD.ts
+#EXTINF:-1,phoenix HD
+http://192.168.113.190:7522/upnp/channelstream/2359890608502220891%7Cphoenix%20HD.ts
+#EXTINF:-1,tagesschau24 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668640938119%7Ctagesschau24%20HD.ts
+#EXTINF:-1,Das Erste HD
+http://192.168.113.190:7522/upnp/channelstream/2359890582721931325%7CDas%20Erste%20HD.ts
+#EXTINF:-1,ZDF HD
+http://192.168.113.190:7522/upnp/channelstream/2359890548428909414%7CZDF%20HD.ts
+#EXTINF:-1,3sat HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544160156558%7C3sat%20HD.ts
+#EXTINF:-1,arte HD
+http://192.168.113.190:7522/upnp/channelstream/2359890582722586686%7Carte%20HD.ts
+#EXTINF:-1,KiKA HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544166710168%7CKiKA%20HD.ts
+#EXTINF:-1,ONE HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668641593480%7CONE%20HD.ts
+#EXTINF:-1,zdf_neo HD
+http://192.168.113.190:7522/upnp/channelstream/2359890548442016634%7Czdf%5Fneo%20HD.ts
+#EXTINF:-1,ZDFinfo HD
+http://192.168.113.190:7522/upnp/channelstream/2359890544173263778%7CZDFinfo%20HD.ts
+#EXTINF:-1,phoenix HD
+http://192.168.113.190:7522/upnp/channelstream/2359890608502220891%7Cphoenix%20HD.ts
+#EXTINF:-1,tagesschau24 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668640938119%7Ctagesschau24%20HD.ts
+#EXTINF:-1,WDR HD Köln (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203948%7CWDR%20HD%20K%C3%B6ln%20%28deu%29.ts
+#EXTINF:-1,SWR RP HD
+http://192.168.113.190:7522/upnp/channelstream/2359890582723897408%7CSWR%20RP%20HD.ts
+#EXTINF:-1,BR Fernsehen Süd HD
+http://192.168.113.190:7522/upnp/channelstream/2359890608498288725%7CBR%20Fernsehen%20S%C3%BCd%20HD.ts
+#EXTINF:-1,NDR FS HH HD
+http://192.168.113.190:7522/upnp/channelstream/2359890608499599449%7CNDR%20FS%20HH%20HD.ts
+#EXTINF:-1,hr-fernsehen HD
+http://192.168.113.190:7522/upnp/channelstream/2359890763126941811%7Chr%2Dfernsehen%20HD.ts
+#EXTINF:-1,rbb Brandenburg HD
+http://192.168.113.190:7522/upnp/channelstream/2359890763124320366%7Crbb%20Brandenburg%20HD.ts
+#EXTINF:-1,MDR S-Anhalt HD
+http://192.168.113.190:7522/upnp/channelstream/2359890763125631089%7CMDR%20S%2DAnhalt%20HD.ts
+#EXTINF:-1,Radio Bremen HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668643559563%7CRadio%20Bremen%20HD.ts
+#EXTINF:-1,SR Fernsehen HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668642904202%7CSR%20Fernsehen%20HD.ts
+#EXTINF:-1,ARD alpha HD
+http://192.168.113.190:7522/upnp/channelstream/2359890668642248841%7CARD%20alpha%20HD.ts
+#EXTINF:-1,Crime + Investigation
+http://192.168.113.190:7522/upnp/channelstream/2359886214540034450%7CCrime%20%2B%20Investigation.ts
+#EXTINF:-1,Sky Cinema Action HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886244521115764%7CSky%20Cinema%20Action%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Best Of HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886257406017643%7CSky%20Cinema%20Best%20Of%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231703323140%7CSky%20Cinema%20Classics%20HD.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214456344715%7CSky%20Cinema%20Family%20HD.ts
+#EXTINF:-1,Sky Cinema Fun HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886244537892872%7CSky%20Cinema%20Fun%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Premieren +24 HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886253077495943%7CSky%20Cinema%20Premieren%20%2B24%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Premieren HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886231669768323%7CSky%20Cinema%20Premieren%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Special HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886261667430511%7CSky%20Cinema%20Special%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Thriller HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886223079833611%7CSky%20Cinema%20Thriller%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Crime HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231686545421%7CSky%20Crime%20HD.ts
+#EXTINF:-1,Sky Replay HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257523458172%7CSky%20Replay%20HD.ts
+#EXTINF:-1,Universal TV HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886274636218469%7CUniversal%20TV%20HD%20%28deu%29.ts
+#EXTINF:-1,Warner TV Comedy HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253312376968%7CWarner%20TV%20Comedy%20HD.ts
+#EXTINF:-1,Warner TV Film HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223180497036%7CWarner%20TV%20Film%20HD.ts
+#EXTINF:-1,Warner TV Serie HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886274619441275%7CWarner%20TV%20Serie%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Showcase HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253144604814%7CSky%20Showcase%20HD.ts
+#EXTINF:-1,Deluxe Music HD
+http://192.168.113.190:7522/upnp/channelstream/2359890737073689983%7CDeluxe%20Music%20HD.ts
+#EXTINF:-1,Disney Channel HD
+http://192.168.113.190:7522/upnp/channelstream/2359890737023358332%7CDisney%20Channel%20HD.ts
+#EXTINF:-1,DMAX HD
+http://192.168.113.190:7522/upnp/channelstream/2359890968985146650%7CDMAX%20HD.ts
+#EXTINF:-1,INSIGHT TV HD
+http://192.168.113.190:7522/upnp/channelstream/2359890509389894546%7CINSIGHT%20TV%20HD.ts
+#EXTINF:-1,Kabel Eins Doku HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573898542969%7CKabel%20Eins%20Doku%20HD.ts
+#EXTINF:-1,kabel eins HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573848211318%7Ckabel%20eins%20HD.ts
+#EXTINF:-1,MTV HD
+http://192.168.113.190:7522/upnp/channelstream/2359890642584414071%7CMTV%20HD.ts
+#EXTINF:-1,NITRO HD
+http://192.168.113.190:7522/upnp/channelstream/2359890676910272175%7CNITRO%20HD.ts
+#EXTINF:-1,ntv HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890745680457492%7Cntv%20HD%20%28deu%29.ts
+#EXTINF:-1,Pro7 MAXX HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573881765752%7CPro7%20MAXX%20HD.ts
+#EXTINF:-1,ProSieben HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573831434101%7CProSieben%20HD.ts
+#EXTINF:-1,RTL HD
+http://192.168.113.190:7522/upnp/channelstream/2359890745613348624%7CRTL%20HD.ts
+#EXTINF:-1,RTL HD Austria
+http://192.168.113.190:7522/upnp/channelstream/2359890676884057735%7CRTL%20HD%20Austria.ts
+#EXTINF:-1,RTL UHD
+http://192.168.113.190:7522/upnp/channelstream/2359890556802314362%7CRTL%20UHD.ts
+#EXTINF:-1,RTLup HD
+http://192.168.113.190:7522/upnp/channelstream/2359890745714011926%7CRTLup%20HD.ts
+#EXTINF:-1,RTLZWEI HD
+http://192.168.113.190:7522/upnp/channelstream/2359890745697234709%7CRTLZWEI%20HD.ts
+#EXTINF:-1,RTLZWEI HD Austria
+http://192.168.113.190:7522/upnp/channelstream/2359890676903718565%7CRTLZWEI%20HD%20Austria.ts
+#EXTINF:-1,SAT.1 Gold HD
+http://192.168.113.190:7522/upnp/channelstream/2359890685483757780%7CSAT.1%20Gold%20HD.ts
+#EXTINF:-1,SAT.1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573814656884%7CSAT.1%20HD.ts
+#EXTINF:-1,ShopLC HD
+http://192.168.113.190:7522/upnp/channelstream/2359890728450019955%7CShopLC%20HD.ts
+#EXTINF:-1,SIXX HD
+http://192.168.113.190:7522/upnp/channelstream/2359890573864988535%7CSIXX%20HD.ts
+#EXTINF:-1,SUPER RTL HD
+http://192.168.113.190:7522/upnp/channelstream/2359890676897164955%7CSUPER%20RTL%20HD.ts
+#EXTINF:-1,TELE 5 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890968968369433%7CTELE%205%20HD.ts
+#EXTINF:-1,TLC HD
+http://192.168.113.190:7522/upnp/channelstream/2359890642534082420%7CTLC%20HD.ts
+#EXTINF:-1,UHD1 by ASTRA / HD+
+http://192.168.113.190:7522/upnp/channelstream/2359890651113717762%7CUHD1%20by%20ASTRA%20%2F%20HD%2B.ts
+#EXTINF:-1,VOX HD
+http://192.168.113.190:7522/upnp/channelstream/2359890745630125841%7CVOX%20HD.ts
+#EXTINF:-1,VOX HD Austria
+http://192.168.113.190:7522/upnp/channelstream/2359890676890611345%7CVOX%20HD%20Austria.ts
+#EXTINF:-1,VOXup HD
+http://192.168.113.190:7522/upnp/channelstream/2359890745730789143%7CVOXup%20HD.ts
+#EXTINF:-1,WELT HD
+http://192.168.113.190:7522/upnp/channelstream/2359890728466993780%7CWELT%20HD.ts
+#EXTINF:-1,DAZN 1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244638556292%7CDAZN%201%20HD.ts
+#EXTINF:-1,DAZN 2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244554670202%7CDAZN%202%20HD.ts
+#EXTINF:-1,Sky Sport F1 HD (qae)
+http://192.168.113.190:7522/upnp/channelstream/2359886244588158993%7CSky%20Sport%20F1%20HD%20%28qae%29.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231736811788%7CSky%20Sport%201%20HD.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214825378070%7CSky%20Sport%202%20HD.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257506615584%7CSky%20Sport%203%20HD.ts
+#EXTINF:-1,Sky Sport 4 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223029436714%7CSky%20Sport%204%20HD.ts
+#EXTINF:-1,Sky Sport 5 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886222995751220%7CSky%20Sport%205%20HD.ts
+#EXTINF:-1,Sky Sport 6 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244470587710%7CSky%20Sport%206%20HD.ts
+#EXTINF:-1,Sky Sport 7 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244470587720%7CSky%20Sport%207%20HD.ts
+#EXTINF:-1,Sky Sport 8  HD
+http://192.168.113.190:7522/upnp/channelstream/2359886274535358802%7CSky%20Sport%208%20%20HD.ts
+#EXTINF:-1,Sky Sport 9  HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522242%7CSky%20Sport%209%20%20HD.ts
+#EXTINF:-1,Sky Sport 10 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522253%7CSky%20Sport%2010%20HD.ts
+#EXTINF:-1,Sky Sport Premier League HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223247540369%7CSky%20Sport%20Premier%20League%20HD.ts
+#EXTINF:-1,Sky Sport Golf HD (qae)
+http://192.168.113.190:7522/upnp/channelstream/2359886261784805520%7CSky%20Sport%20Golf%20HD%20%28qae%29.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214422724749%7CSky%20Sport%20Mix%20HD.ts
+#EXTINF:-1,Sky Sport News HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257422794860%7CSky%20Sport%20News%20HD.ts
+#EXTINF:-1,Sky Sport Tennis HD
+http://192.168.113.190:7522/upnp/channelstream/2359886261717696626%7CSky%20Sport%20Tennis%20HD.ts
+#EXTINF:-1,Sky Sport Top Event HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231636148353%7CSky%20Sport%20Top%20Event%20HD.ts
+#EXTINF:-1,Sky Sport UHD
+http://192.168.113.190:7522/upnp/channelstream/2359886274669707817%7CSky%20Sport%20UHD.ts
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257372397673%7CSky%20Sport%20Bundesliga%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231720034571%7CSky%20Sport%20Bundesliga%201%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214808600853%7CSky%20Sport%20Bundesliga%202%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257489838367%7CSky%20Sport%20Bundesliga%203%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223012659497%7CSky%20Sport%20Bundesliga%204%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223062991155%7CSky%20Sport%20Bundesliga%205%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244906926397%7CSky%20Sport%20Bundesliga%206%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244470587719%7CSky%20Sport%20Bundesliga%207%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886274535358801%7CSky%20Sport%20Bundesliga%208%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522241%7CSky%20Sport%20Bundesliga%209%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522255%7CSky%20Sport%20Bundesliga%2010%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga UHD
+http://192.168.113.190:7522/upnp/channelstream/2359886274652996136%7CSky%20Sport%20Bundesliga%20UHD.ts
+#EXTINF:-1,.
+http://192.168.113.190:7522/upnp/channelstream/2359886274535358601%7C..ts
+#EXTINF:-1,13th Street HD
+http://192.168.113.190:7522/upnp/channelstream/2359886261700984959%7C13th%20Street%20HD.ts
+#EXTINF:-1,Beate Uhse HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244605001861%7CBeate%20Uhse%20HD.ts
+#EXTINF:-1,Cartoon Network
+http://192.168.113.190:7522/upnp/channelstream/2359886253177962900%7CCartoon%20Network.ts
+#EXTINF:-1,Cartoonito
+http://192.168.113.190:7522/upnp/channelstream/2359886257439375388%7CCartoonito.ts
+#EXTINF:-1,Discovery HD
+http://192.168.113.190:7522/upnp/channelstream/2359886231652991106%7CDiscovery%20HD.ts
+#EXTINF:-1,Heimatkanal
+http://192.168.113.190:7522/upnp/channelstream/2359886214590365718%7CHeimatkanal.ts
+#EXTINF:-1,HISTORY Channel HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253111050353%7CHISTORY%20Channel%20HD.ts
+#EXTINF:-1,Jukebox
+http://192.168.113.190:7522/upnp/channelstream/2359886253362512273%7CJukebox.ts
+#EXTINF:-1,kabel eins classics
+http://192.168.113.190:7522/upnp/channelstream/2359890634178827458%7Ckabel%20eins%20classics.ts
+#EXTINF:-1,Motorvision+
+http://192.168.113.190:7522/upnp/channelstream/2359886253127631016%7CMotorvision%2B.ts
+#EXTINF:-1,Nicktoons (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886261751119899%7CNicktoons%20%28deu%29.ts
+#EXTINF:-1,Romance TV HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214607143430%7CRomance%20TV%20HD.ts
+#EXTINF:-1,Sky Atlantic HD
+http://192.168.113.190:7522/upnp/channelstream/2359886261734539374%7CSky%20Atlantic%20HD.ts
+#EXTINF:-1,Sky Documentaries HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886261684207728%7CSky%20Documentaries%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Krimi HD
+http://192.168.113.190:7522/upnp/channelstream/2359886223096610839%7CSky%20Krimi%20HD.ts
+#EXTINF:-1,Sky Nature HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359886231619436662%7CSky%20Nature%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky One HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214439567507%7CSky%20One%20HD.ts
+#EXTINF:-1,Eurosport 1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890685517312214%7CEurosport%201%20HD.ts
+#EXTINF:-1,DAZN F1 HD (spa)
+http://192.168.113.190:7522/upnp/channelstream/2359890767076422961%7CDAZN%20F1%20HD%20%28spa%29.ts
+#EXTINF:-1,DAZN 1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890715538782293%7CDAZN%201%20HD.ts
+#EXTINF:-1,DAZN 2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890715539961951%7CDAZN%202%20HD.ts
+#EXTINF:-1,Movistar Plus+2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890569507927256%7CMovistar%20Plus%2B2%20HD.ts
+#EXTINF:-1,LALIGA TV HYPERMOTION
+http://192.168.113.190:7522/upnp/channelstream/2359890569509237974%7CLALIGA%20TV%20HYPERMOTION.ts
+#EXTINF:-1,Eurosport 1 HD Austria
+http://192.168.113.190:7522/upnp/channelstream/2359890685517312234%7CEurosport%201%20HD%20Austria.ts
+#EXTINF:-1,SPORT1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890737107244417%7CSPORT1%20HD.ts
+#EXTINF:-1,Prime Video Sportsbar
+http://192.168.113.190:7522/upnp/channelstream/2359886244470587733%7CPrime%20Video%20Sportsbar.ts
+#EXTINF:-1,rbb Berlin HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890763124320367%7Crbb%20Berlin%20HD%20%28deu%29.ts
+#EXTINF:-1,MDR Sachsen HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890763125631088%7CMDR%20Sachsen%20HD%20%28deu%29.ts
+#EXTINF:-1,MDR Thüringen HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890763125631090%7CMDR%20Th%C3%BCringen%20HD%20%28deu%29.ts
+#EXTINF:-1,ARD-Test-R
+http://192.168.113.190:7522/upnp/channelstream/2359890668641593494%7CARD%2DTest%2DR.ts
+#EXTINF:-1,SWR BW HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890582723242047%7CSWR%20BW%20HD%20%28deu%29.ts
+#EXTINF:-1,WDR HD Aachen
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203949%7CWDR%20HD%20Aachen.ts
+#EXTINF:-1,WDR HD Bielefeld
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203950%7CWDR%20HD%20Bielefeld.ts
+#EXTINF:-1,WDR HD Bonn
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203951%7CWDR%20HD%20Bonn.ts
+#EXTINF:-1,WDR HD Dortmund
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203952%7CWDR%20HD%20Dortmund.ts
+#EXTINF:-1,WDR HD Duisburg
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203953%7CWDR%20HD%20Duisburg.ts
+#EXTINF:-1,WDR HD Düsseldorf
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203954%7CWDR%20HD%20D%C3%BCsseldorf.ts
+#EXTINF:-1,WDR HD Essen
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203955%7CWDR%20HD%20Essen.ts
+#EXTINF:-1,WDR HD Münster
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203956%7CWDR%20HD%20M%C3%BCnster.ts
+#EXTINF:-1,WDR HD Siegen
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203957%7CWDR%20HD%20Siegen.ts
+#EXTINF:-1,WDR HD Wuppertal
+http://192.168.113.190:7522/upnp/channelstream/2359890590984203958%7CWDR%20HD%20Wuppertal.ts
+#EXTINF:-1,BR Fernsehen Nord HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890608498288726%7CBR%20Fernsehen%20Nord%20HD%20%28deu%29.ts
+#EXTINF:-1,NDR FS NDS HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890608499599447%7CNDR%20FS%20NDS%20HD%20%28deu%29.ts
+#EXTINF:-1,NDR FS MV HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890608499599448%7CNDR%20FS%20MV%20HD%20%28deu%29.ts
+#EXTINF:-1,NDR FS SH HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890608499599450%7CNDR%20FS%20SH%20HD%20%28deu%29.ts
+#EXTINF:-1,ServusTV HD Oesterreich (ger)
+http://192.168.113.190:7522/upnp/channelstream/2359890531082834737%7CServusTV%20HD%20Oesterreich%20%28ger%29.ts
+#EXTINF:-1,DF1 HD
+http://192.168.113.190:7522/upnp/channelstream/2359890531170456370%7CDF1%20HD.ts
+#EXTINF:-1,ServusTV Deutschland (ger)
+http://192.168.113.190:7522/upnp/channelstream/2359890994777240374%7CServusTV%20Deutschland%20%28ger%29.ts
+#EXTINF:-1,CNBC HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253211713661%7CCNBC%20HD.ts
+#EXTINF:-1,Sky Sport Austria 1 HD (qae)
+http://192.168.113.190:7522/upnp/channelstream/2359886223213985935%7CSky%20Sport%20Austria%201%20HD%20%28qae%29.ts
+#EXTINF:-1,STEST1
+http://192.168.113.190:7522/upnp/channelstream/2359886275038741280%7CSTEST1.ts
+#EXTINF:-1,STEST2
+http://192.168.113.190:7522/upnp/channelstream/2359886257657479969%7CSTEST2.ts
+#EXTINF:-1,SYFY HD
+http://192.168.113.190:7522/upnp/channelstream/2359886257389240446%7CSYFY%20HD.ts
+#EXTINF:-1,Sky Sport Austria 2 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886261650456905%7CSky%20Sport%20Austria%202%20HD.ts
+#EXTINF:-1,Sky Sport Austria 3 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886214405816659%7CSky%20Sport%20Austria%203%20HD.ts
+#EXTINF:-1,Sky Sport Austria 4 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522243%7CSky%20Sport%20Austria%204%20HD.ts
+#EXTINF:-1,Sky Sport Austria 5 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886244470587718%7CSky%20Sport%20Austria%205%20HD.ts
+#EXTINF:-1,Sky Sport Austria 6 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886274535358806%7CSky%20Sport%20Austria%206%20HD.ts
+#EXTINF:-1,Sky Sport Austria 7 HD
+http://192.168.113.190:7522/upnp/channelstream/2359886253060522245%7CSky%20Sport%20Austria%207%20HD.ts
+#EXTINF:-1,ORF SPORT+ HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522460599293%7CORF%20SPORT%2B%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF1 HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890530973848367%7CORF1%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2N HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890531039384372%7CORF2N%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2W HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890531039384368%7CORF2W%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2St HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701045%7CORF2St%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2K HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701046%7CORF2K%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2B HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701047%7CORF2B%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2O HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701048%7CORF2O%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2S HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701049%7CORF2S%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2T HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701050%7CORF2T%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF2V HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522454701051%7CORF2V%20HD%20%28deu%29.ts
+#EXTINF:-1,ORF III HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890522459943932%7CORF%20III%20HD%20%28deu%29.ts
+#EXTINF:-1,Flimmit
+http://192.168.113.190:7522/upnp/channelstream/2359890522258027518%7CFlimmit.ts
+#EXTINF:-1,meinTVshop
+http://192.168.113.190:7522/upnp/channelstream/2359890522461910015%7CmeinTVshop.ts
+#EXTINF:-1,HITRADIO OE3
+http://192.168.113.190:7522/upnp/channelstream/2359891003302949589%7CHITRADIO%20OE3.ts
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890706958389452%7CSPORTDIGITAL%20FUSSBALL%20HD%20%28deu%29.ts
+#EXTINF:-1,SPORT1+ (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890706975166669%7CSPORT1%2B%20%28deu%29.ts
+#EXTINF:-1,eSPORTS1 (deu)
+http://192.168.113.190:7522/upnp/channelstream/2359890706991943886%7CeSPORTS1%20%28deu%29.ts
+#EXTINF:-1,EDGEsport
+http://192.168.113.190:7522/upnp/channelstream/2359890707008721103%7CEDGEsport.ts
+#EXTINF:-1,WAIDWERK
+http://192.168.113.190:7522/upnp/channelstream/2359890707025498320%7CWAIDWERK.ts
+#EXTINF:-1,ClipMyHorse.TV
+http://192.168.113.190:7522/upnp/channelstream/2359890707042275537%7CClipMyHorse.TV.ts
+#EXTINF:-1,One Terra HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990426237288%7COne%20Terra%20HD.ts
+#EXTINF:-1,Xplore HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990443014505%7CXplore%20HD.ts
+#EXTINF:-1,Hip Trips HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990459791722%7CHip%20Trips%20HD.ts
+#EXTINF:-1,Deluxe Dance by Kontor HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990476568939%7CDeluxe%20Dance%20by%20Kontor%20HD.ts
+#EXTINF:-1,Deluxe Flashback HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990493346156%7CDeluxe%20Flashback%20HD.ts
+#EXTINF:-1,Just Cooking HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990510123373%7CJust%20Cooking%20HD.ts
+#EXTINF:-1,Deluxe Rock HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990526900590%7CDeluxe%20Rock%20HD.ts
+#EXTINF:-1,Deluxe Rap HD
+http://192.168.113.190:7522/upnp/channelstream/2359890990543677807%7CDeluxe%20Rap%20HD.ts
+#EXTINF:-1,Just Fishing HD
+http://192.168.113.190:7522/upnp/channelstream/2359890999016171980%7CJust%20Fishing%20HD.ts
+#EXTINF:-1,Crime Time HD
+http://192.168.113.190:7522/upnp/channelstream/2359890999083280848%7CCrime%20Time%20HD.ts
+#EXTINF:-1,SERIEN + HD
+http://192.168.113.190:7522/upnp/channelstream/2359890999100058065%7CSERIEN%20%2B%20HD.ts
+#EXTINF:-1,Deluxe Lounge HD
+http://192.168.113.190:7522/upnp/channelstream/2359890999116835282%7CDeluxe%20Lounge%20HD.ts
+#EXTINF:-1,Red Adventure HD
+http://192.168.113.190:7522/upnp/channelstream/2359890999133612499%7CRed%20Adventure%20HD.ts
+#EXTINF:-1,Xplore
+http://192.168.113.190:7522/upnp/channelstream/2359891007606106372%7CXplore.ts
+#EXTINF:-1,Hip Trips
+http://192.168.113.190:7522/upnp/channelstream/2359891007622883589%7CHip%20Trips.ts
+#EXTINF:-1,One Terra
+http://192.168.113.190:7522/upnp/channelstream/2359891007639660806%7COne%20Terra.ts
+#EXTINF:-1,Deluxe Rock
+http://192.168.113.190:7522/upnp/channelstream/2359891007656438023%7CDeluxe%20Rock.ts
+#EXTINF:-1,Deluxe Rap
+http://192.168.113.190:7522/upnp/channelstream/2359891007673215240%7CDeluxe%20Rap.ts
+#EXTINF:-1,Deluxe Dance by Kontor
+http://192.168.113.190:7522/upnp/channelstream/2359891007689992457%7CDeluxe%20Dance%20by%20Kontor.ts
+#EXTINF:-1,Deluxe Flashback
+http://192.168.113.190:7522/upnp/channelstream/2359891007706769674%7CDeluxe%20Flashback.ts
+#EXTINF:-1,Just Cooking
+http://192.168.113.190:7522/upnp/channelstream/2359891007723546891%7CJust%20Cooking.ts
+#EXTINF:-1,Just Fishing
+http://192.168.113.190:7522/upnp/channelstream/2359891007740324108%7CJust%20Fishing.ts
+#EXTINF:-1,Deluxe Lounge
+http://192.168.113.190:7522/upnp/channelstream/2359891007757101325%7CDeluxe%20Lounge.ts
+#EXTINF:-1,Red Adventure
+http://192.168.113.190:7522/upnp/channelstream/2359891007773878542%7CRed%20Adventure.ts
+#EXTINF:-1,Crime Time
+http://192.168.113.190:7522/upnp/channelstream/2359891007790655759%7CCrime%20Time.ts
+#EXTINF:-1,SERIEN+
+http://192.168.113.190:7522/upnp/channelstream/2359891007807432976%7CSERIEN%2B.ts
+#EXTINF:-1,Das Erste HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442619437825%7CDas%20Erste%20HD%20%28deu%29.ts
+#EXTINF:-1,ZDF HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713220106424682449%7CZDF%20HD%20%28deu%29.ts
+#EXTINF:-1,WDR HD Köln (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442617472006%7CWDR%20HD%20K%C3%B6ln%20%28deu%29.ts
+#EXTINF:-1,SWR RP HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713339940211000290%7CSWR%20RP%20HD%20%28deu%29.ts
+#EXTINF:-1,BR Fernsehen Süd HD (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442146%7CBR%20Fernsehen%20S%C3%BCd%20HD%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,NDR FS NDS HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713339940208378753%7CNDR%20FS%20NDS%20HD%20%28deu%29.ts
+#EXTINF:-1,rbb Berlin HD (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442289%7Crbb%20Berlin%20HD%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,hr-fernsehen HD (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442177%7Chr%2Dfernsehen%20HD%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,arte HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442620093186%7Carte%20HD%20%28deu%29.ts
+#EXTINF:-1,ONE HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442620748549%7CONE%20HD%20%28deu%29.ts
+#EXTINF:-1,WDR HD Aachen (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442617472001%7CWDR%20HD%20Aachen%20%28deu%29.ts
+#EXTINF:-1,WDR HD Bonn (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442617472010%7CWDR%20HD%20Bonn%20%28deu%29.ts
+#EXTINF:-1,Test-R (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442617472012%7CTest%2DR%20%28deu%29.ts
+#EXTINF:-1,ARD alpha HD (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442147%7CARD%20alpha%20HD%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,SR Fernsehen HD (Internet) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812376785%7CSR%20Fernsehen%20HD%20%28Internet%29%20%28deu%29.ts
+#EXTINF:-1,1LIVE (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442636%7C1LIVE%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR 2 Rheinland (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442637%7CWDR%202%20Rheinland%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR 3 (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442638%7CWDR%203%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR 4 (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442639%7CWDR%204%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR 5 (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442640%7CWDR%205%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,COSMO (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442641%7CCOSMO%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR Maus (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442642%7CWDR%20Maus%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,1LIVE diGGi (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442643%7C1LIVE%20diGGi%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,WDR Event (Internet) (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442644%7CWDR%20Event%20%28Internet%29%20%28mis%29.ts
+#EXTINF:-1,Service 2069 (mis)
+http://192.168.113.190:7522/upnp/channelstream/3713334442812442645%7CService%202069%20%28mis%29.ts
+#EXTINF:-1,ZDFinfo HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713220106431236050%7CZDFinfo%20HD%20%28deu%29.ts
+#EXTINF:-1,zdf_neo HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713220106437789651%7Czdf%5Fneo%20HD%20%28deu%29.ts
+#EXTINF:-1,3sat HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713220106444343252%7C3sat%20HD%20%28deu%29.ts
+#EXTINF:-1,KiKA HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713220106450896853%7CKiKA%20HD%20%28deu%29.ts
+#EXTINF:-1,phoenix HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713339940211655427%7Cphoenix%20HD%20%28deu%29.ts
+#EXTINF:-1,tagesschau24 HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713339940212310788%7Ctagesschau24%20HD%20%28deu%29.ts
+#EXTINF:-1,MDR S-Anhalt HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3713339940210344802%7CMDR%20S%2DAnhalt%20HD%20%28deu%29.ts
+#EXTINF:-1,1-2-3.tv HD
+http://192.168.113.190:7522/upnp/channelstream/3713288679828111941%7C1%2D2%2D3.tv%20HD.ts
+#EXTINF:-1,QVC HD
+http://192.168.113.190:7522/upnp/channelstream/3713288679829160518%7CQVC%20HD.ts
+#EXTINF:-1,HSE24 HD
+http://192.168.113.190:7522/upnp/channelstream/3713288679830209095%7CHSE24%20HD.ts
+#EXTINF:-1,Bibel TV HD
+http://192.168.113.190:7522/upnp/channelstream/3713288679831257672%7CBibel%20TV%20HD.ts
+#EXTINF:-1,Jetzt testen in SD
+http://192.168.113.190:7522/upnp/channelstream/3713288679832306249%7CJetzt%20testen%20in%20SD.ts
+#EXTINF:-1,QVC2 HD
+http://192.168.113.190:7522/upnp/channelstream/3713288679833354826%7CQVC2%20HD.ts
+#EXTINF:-1,freenet TV connect
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053120%7Cfreenet%20TV%20connect.ts
+#EXTINF:-1,Bloomberg Europe TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053121%7CBloomberg%20Europe%20TV%20%28connect%29.ts
+#EXTINF:-1,CNN Int. (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053122%7CCNN%20Int.%20%28connect%29.ts
+#EXTINF:-1,Euronews HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053123%7CEuronews%20HD%20%28connect%29.ts
+#EXTINF:-1,Test (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053124%7CTest%20%28connect%29.ts
+#EXTINF:-1,Ric (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053125%7CRic%20%28connect%29.ts
+#EXTINF:-1,INSIGHT TV HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053126%7CINSIGHT%20TV%20HD%20%28connect%29.ts
+#EXTINF:-1,Couchplay (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053129%7CCouchplay%20%28connect%29.ts
+#EXTINF:-1,ANIXE HD Serie (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053131%7CANIXE%20HD%20Serie%20%28connect%29.ts
+#EXTINF:-1,Motorvision.TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053132%7CMotorvision.TV%20%28connect%29.ts
+#EXTINF:-1,DER AKTIONÄR TV (conncet)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053133%7CDER%20AKTION%C3%84R%20TV%20%28conncet%29.ts
+#EXTINF:-1,HOPE TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053134%7CHOPE%20TV%20%28connect%29.ts
+#EXTINF:-1,Lokal-TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053135%7CLokal%2DTV%20%28connect%29.ts
+#EXTINF:-1,ShopLC HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053136%7CShopLC%20HD%20%28connect%29.ts
+#EXTINF:-1,QVC STYLE HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053137%7CQVC%20STYLE%20HD%20%28connect%29.ts
+#EXTINF:-1,Welt der Wunder TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053138%7CWelt%20der%20Wunder%20TV%20%28connect%29.ts
+#EXTINF:-1,rhein main tv (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053139%7Crhein%20main%20tv%20%28connect%29.ts
+#EXTINF:-1,sonnenklar.TV HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053140%7Csonnenklar.TV%20HD%20%28connect%29.ts
+#EXTINF:-1,N24 DOKU (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053141%7CN24%20DOKU%20%28connect%29.ts
+#EXTINF:-1,TLC (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053142%7CTLC%20%28connect%29.ts
+#EXTINF:-1,MTV HD (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053143%7CMTV%20HD%20%28connect%29.ts
+#EXTINF:-1,Comedy Central (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053144%7CComedy%20Central%20%28connect%29.ts
+#EXTINF:-1,DELUXE MUSIK TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053145%7CDELUXE%20MUSIK%20TV%20%28connect%29.ts
+#EXTINF:-1,kabel eins Doku (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053146%7Ckabel%20eins%20Doku%20%28connect%29.ts
+#EXTINF:-1,Servus TV (connect)
+http://192.168.113.190:7522/upnp/channelstream/3713288752748053147%7CServus%20TV%20%28connect%29.ts
+#EXTINF:-1,Disney Ch. HD
+http://192.168.113.190:7522/upnp/channelstream/3431785935415722863%7CDisney%20Ch.%20HD.ts
+#EXTINF:-1,WELT HD
+http://192.168.113.190:7522/upnp/channelstream/3431785935417688946%7CWELT%20HD.ts
+#EXTINF:-1,TELE 5 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785905360126843%7CTELE%205%20HD.ts
+#EXTINF:-1,CNN HD (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785904951182205%7CCNN%20HD%20%28eng%29.ts
+#EXTINF:-1,RTL
+http://192.168.113.190:7522/upnp/channelstream/3431785866766438753%7CRTL.ts
+#EXTINF:-1,SAT.1
+http://192.168.113.190:7522/upnp/channelstream/3431785866767094138%7CSAT.1.ts
+#EXTINF:-1,RTL HD
+http://192.168.113.190:7522/upnp/channelstream/3431785948344533852%7CRTL%20HD.ts
+#EXTINF:-1,SAT.1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785948346499938%7CSAT.1%20HD.ts
+#EXTINF:-1,VOX HD
+http://192.168.113.190:7522/upnp/channelstream/3431785922536719197%7CVOX%20HD.ts
+#EXTINF:-1,ProSieben HD
+http://192.168.113.190:7522/upnp/channelstream/3431785922549171039%7CProSieben%20HD.ts
+#EXTINF:-1,sixx HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892478501731%7Csixx%20HD.ts
+#EXTINF:-1,DF1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892479812453%7CDF1%20HD.ts
+#EXTINF:-1,HSE HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892481123178%7CHSE%20HD.ts
+#EXTINF:-1,QVC HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892477846379%7CQVC%20HD.ts
+#EXTINF:-1,SUPER RTL HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892477191020%7CSUPER%20RTL%20HD.ts
+#EXTINF:-1,NITRO HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892476535661%7CNITRO%20HD.ts
+#EXTINF:-1,Bibel TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913570608007%7CBibel%20TV%20HD.ts
+#EXTINF:-1,ntv HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913587647371%7Cntv%20HD.ts
+#EXTINF:-1,Eurosport 1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913578472354%7CEurosport%201%20HD.ts
+#EXTINF:-1,kabel eins HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926829065049%7Ckabel%20eins%20HD.ts
+#EXTINF:-1,SPORT1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926829720410%7CSPORT1%20HD.ts
+#EXTINF:-1,Shop LC HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926823822252%7CShop%20LC%20HD.ts
+#EXTINF:-1,DMAX HD
+http://192.168.113.190:7522/upnp/channelstream/3431785952274465653%7CDMAX%20HD.ts
+#EXTINF:-1,ProSieben MAXX HD
+http://192.168.113.190:7522/upnp/channelstream/3431785952273154942%7CProSieben%20MAXX%20HD.ts
+#EXTINF:-1,sonnenklar.TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785952291505043%7Csonnenklar.TV%20HD.ts
+#EXTINF:-1,SAT.1 Gold HD
+http://192.168.113.190:7522/upnp/channelstream/3431785952275121050%7CSAT.1%20Gold%20HD.ts
+#EXTINF:-1,HSE Extra HD
+http://192.168.113.190:7522/upnp/channelstream/3431785952266601383%7CHSE%20Extra%20HD.ts
+#EXTINF:-1,Comedy Central HD
+http://192.168.113.190:7522/upnp/channelstream/3431785909341176706%7CComedy%20Central%20HD.ts
+#EXTINF:-1,Nick HD
+http://192.168.113.190:7522/upnp/channelstream/3431785909267121029%7CNick%20HD.ts
+#EXTINF:-1,Disney Channel
+http://192.168.113.190:7522/upnp/channelstream/3431785887807357877%7CDisney%20Channel.ts
+#EXTINF:-1,MTV
+http://192.168.113.190:7522/upnp/channelstream/3431785887768694540%7CMTV.ts
+#EXTINF:-1,DOKUSAT
+http://192.168.113.190:7522/upnp/channelstream/3431785887933190016%7CDOKUSAT.ts
+#EXTINF:-1,RTLup
+http://192.168.113.190:7522/upnp/channelstream/3431785887899111503%7CRTLup.ts
+#EXTINF:-1,SCHLAGER DELUXE
+http://192.168.113.190:7522/upnp/channelstream/3431785887802773584%7CSCHLAGER%20DELUXE.ts
+#EXTINF:-1,Bibel TV
+http://192.168.113.190:7522/upnp/channelstream/3431785887789011099%7CBibel%20TV.ts
+#EXTINF:-1,Super RTL
+http://192.168.113.190:7522/upnp/channelstream/3431785887839474018%7CSuper%20RTL.ts
+#EXTINF:-1,RTLZWEI
+http://192.168.113.190:7522/upnp/channelstream/3431785887846027619%7CRTLZWEI.ts
+#EXTINF:-1,VOX
+http://192.168.113.190:7522/upnp/channelstream/3431785887852581220%7CVOX.ts
+#EXTINF:-1,ntv
+http://192.168.113.190:7522/upnp/channelstream/3431785887865688422%7Cntv.ts
+#EXTINF:-1,Al Jazeera Int (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785887889281390%7CAl%20Jazeera%20Int%20%28eng%29.ts
+#EXTINF:-1,sonnenklar.TV
+http://192.168.113.190:7522/upnp/channelstream/3431785887889936751%7Csonnenklar.TV.ts
+#EXTINF:-1,SPORT1
+http://192.168.113.190:7522/upnp/channelstream/3431785887905010040%7CSPORT1.ts
+#EXTINF:-1,kabel eins Doku
+http://192.168.113.190:7522/upnp/channelstream/3431785939379733450%7Ckabel%20eins%20Doku.ts
+#EXTINF:-1,QVC2
+http://192.168.113.190:7522/upnp/channelstream/3431785939343689242%7CQVC2.ts
+#EXTINF:-1,HSE EXTRA
+http://192.168.113.190:7522/upnp/channelstream/3431785939700860758%7CHSE%20EXTRA.ts
+#EXTINF:-1,ProSieben MAXX
+http://192.168.113.190:7522/upnp/channelstream/3431785939702173457%7CProSieben%20MAXX.ts
+#EXTINF:-1,SONLife (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785939704794899%7CSONLife%20%28eng%29.ts
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://192.168.113.190:7522/upnp/channelstream/3431785939706760980%7CDeutsches%20Musik%20Fernsehen.ts
+#EXTINF:-1,DELUXE MUSIC
+http://192.168.113.190:7522/upnp/channelstream/3431785939434786891%7CDELUXE%20MUSIC.ts
+#EXTINF:-1,SAT.1 Gold
+http://192.168.113.190:7522/upnp/channelstream/3431785939440029772%7CSAT.1%20Gold.ts
+#EXTINF:-1,Astro TV
+http://192.168.113.190:7522/upnp/channelstream/3431785939427578220%7CAstro%20TV.ts
+#EXTINF:-1,MTV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785939702825848%7CMTV%20HD.ts
+#EXTINF:-1,HOME & GARDEN TV
+http://192.168.113.190:7522/upnp/channelstream/3431785879184000135%7CHOME%20%26%20GARDEN%20TV.ts
+#EXTINF:-1,Nick
+http://192.168.113.190:7522/upnp/channelstream/3431785879180070670%7CNick.ts
+#EXTINF:-1,N24 Doku
+http://192.168.113.190:7522/upnp/channelstream/3431785879231844628%7CN24%20Doku.ts
+#EXTINF:-1,CGTN
+http://192.168.113.190:7522/upnp/channelstream/3431785879573942552%7CCGTN.ts
+#EXTINF:-1,K-TV
+http://192.168.113.190:7522/upnp/channelstream/3431785879575908633%7CK%2DTV.ts
+#EXTINF:-1,Comedy Central
+http://192.168.113.190:7522/upnp/channelstream/3431785879343911273%7CComedy%20Central.ts
+#EXTINF:-1,QVC
+http://192.168.113.190:7522/upnp/channelstream/3431785879300657520%7CQVC.ts
+#EXTINF:-1,DMAX
+http://192.168.113.190:7522/upnp/channelstream/3431785879301312881%7CDMAX.ts
+#EXTINF:-1,VOXup
+http://192.168.113.190:7522/upnp/channelstream/3431785879204319612%7CVOXup.ts
+#EXTINF:-1,HSE
+http://192.168.113.190:7522/upnp/channelstream/3431785879302623614%7CHSE.ts
+#EXTINF:-1,sixx
+http://192.168.113.190:7522/upnp/channelstream/3431785900703401484%7Csixx.ts
+#EXTINF:-1,TELE 5
+http://192.168.113.190:7522/upnp/channelstream/3431785900652941066%7CTELE%205.ts
+#EXTINF:-1,Eurosport 1
+http://192.168.113.190:7522/upnp/channelstream/3431785900817437031%7CEurosport%201.ts
+#EXTINF:-1,ProSieben
+http://192.168.113.190:7522/upnp/channelstream/3431785900770251125%7CProSieben.ts
+#EXTINF:-1,kabel eins
+http://192.168.113.190:7522/upnp/channelstream/3431785900776804726%7Ckabel%20eins.ts
+#EXTINF:-1,WELT
+http://192.168.113.190:7522/upnp/channelstream/3431785900809572731%7CWELT.ts
+#EXTINF:-1,1-2-3.tv
+http://192.168.113.190:7522/upnp/channelstream/3431785874928354238%7C1%2D2%2D3.tv.ts
+#EXTINF:-1,BBC News (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785874882481929%7CBBC%20News%20%28eng%29.ts
+#EXTINF:-1,TV 5 Monde (fre)
+http://192.168.113.190:7522/upnp/channelstream/3431785874885758735%7CTV%205%20Monde%20%28fre%29.ts
+#EXTINF:-1,NITRO
+http://192.168.113.190:7522/upnp/channelstream/3431785874920492918%7CNITRO.ts
+#EXTINF:-1,TOGGO plus
+http://192.168.113.190:7522/upnp/channelstream/3431785874894934094%7CTOGGO%20plus.ts
+#EXTINF:-1,Channel21
+http://192.168.113.190:7522/upnp/channelstream/3431785875012899082%7CChannel21.ts
+#EXTINF:-1,Shop LC
+http://192.168.113.190:7522/upnp/channelstream/3431785875035836691%7CShop%20LC.ts
+#EXTINF:-1,HSE Trend
+http://192.168.113.190:7522/upnp/channelstream/3431785874951295254%7CHSE%20Trend.ts
+#EXTINF:-1,Hope TV
+http://192.168.113.190:7522/upnp/channelstream/3431785874937532695%7CHope%20TV.ts
+#EXTINF:-1,CNN (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785875003724141%7CCNN%20%28eng%29.ts
+#EXTINF:-1,Juwelo TV
+http://192.168.113.190:7522/upnp/channelstream/3431785875010933107%7CJuwelo%20TV.ts
+#EXTINF:-1,DF1
+http://192.168.113.190:7522/upnp/channelstream/3431785875011588468%7CDF1.ts
+#EXTINF:-1,euronews
+http://192.168.113.190:7522/upnp/channelstream/3431785875026661753%7Ceuronews.ts
+#EXTINF:-1,RTLZWEI HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965485081435%7CRTLZWEI%20HD.ts
+#EXTINF:-1,QVC Style HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965161333623%7CQVC%20Style%20HD.ts
+#EXTINF:-1,DELUXE MUSIC HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965163955100%7CDELUXE%20MUSIC%20HD.ts
+#EXTINF:-1,1-2-3.tv HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965162644382%7C1%2D2%2D3.tv%20HD.ts
+#EXTINF:-1,QVC2 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965152813992%7CQVC2%20HD.ts
+#EXTINF:-1,AlJaz Balkan/AlJaz (bos/ara)
+http://192.168.113.190:7522/upnp/channelstream/3431785956553049943%7CAlJaz%20Balkan%2FAlJaz%20%28bos%2Fara%29.ts
+#EXTINF:-1,France24 (fre/eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785956554360665%7CFrance24%20%28fre%2Feng%29.ts
+#EXTINF:-1,PCNE/ NTD TV (chi)
+http://192.168.113.190:7522/upnp/channelstream/3431785956555016026%7CPCNE%2F%20NTD%20TV%20%28chi%29.ts
+#EXTINF:-1,Arirang/Fashion TV (eng/spa)
+http://192.168.113.190:7522/upnp/channelstream/3431785956556326748%7CArirang%2FFashion%20TV%20%28eng%2Fspa%29.ts
+#EXTINF:-1,Tunisie 1 (ara)
+http://192.168.113.190:7522/upnp/channelstream/3431785956629071710%7CTunisie%201%20%28ara%29.ts
+#EXTINF:-1,Duna TV (hun)
+http://192.168.113.190:7522/upnp/channelstream/3431785956558292831%7CDuna%20TV%20%28hun%29.ts
+#EXTINF:-1,Visjon Norge (nor)
+http://192.168.113.190:7522/upnp/channelstream/3431785956521594934%7CVisjon%20Norge%20%28nor%29.ts
+#EXTINF:-1,Pro TV/TVR (rum)
+http://192.168.113.190:7522/upnp/channelstream/3431785956602859578%7CPro%20TV%2FTVR%20%28rum%29.ts
+#EXTINF:-1,GINX TV (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785956603514939%7CGINX%20TV%20%28eng%29.ts
+#EXTINF:-1,BVN (dut)
+http://192.168.113.190:7522/upnp/channelstream/3431785956626452550%7CBVN%20%28dut%29.ts
+#EXTINF:-1,CNBC Europe (eng)
+http://192.168.113.190:7522/upnp/channelstream/3431785956568780873%7CCNBC%20Europe%20%28eng%29.ts
+#EXTINF:-1,1+1 International
+http://192.168.113.190:7522/upnp/channelstream/3431785956631695437%7C1%2B1%20International.ts
+#EXTINF:-1,Halk TV / Kanal Avrupa (tur)
+http://192.168.113.190:7522/upnp/channelstream/3431785956898426965%7CHalk%20TV%20%2F%20Kanal%20Avrupa%20%28tur%29.ts
+#EXTINF:-1,TLC
+http://192.168.113.190:7522/upnp/channelstream/3431785874913939428%7CTLC.ts
+#EXTINF:-1,13th Street HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785922548515668%7C13th%20Street%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,AXN Black HD
+http://192.168.113.190:7522/upnp/channelstream/3431785944002380647%7CAXN%20Black%20HD.ts
+#EXTINF:-1,AXN White HD
+http://192.168.113.190:7522/upnp/channelstream/3431785935425553262%7CAXN%20White%20HD.ts
+#EXTINF:-1,C+I HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913588958092%7CC%2BI%20HD.ts
+#EXTINF:-1,Cartoon Network
+http://192.168.113.190:7522/upnp/channelstream/3431785879323592215%7CCartoon%20Network.ts
+#EXTINF:-1,Cartoonito
+http://192.168.113.190:7522/upnp/channelstream/3431785879198421148%7CCartoonito.ts
+#EXTINF:-1,DAZN 1
+http://192.168.113.190:7522/upnp/channelstream/3431785909264499625%7CDAZN%201.ts
+#EXTINF:-1,DAZN 2
+http://192.168.113.190:7522/upnp/channelstream/3431785952586417066%7CDAZN%202.ts
+#EXTINF:-1,Discovery Channel HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785952275776408%7CDiscovery%20Channel%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,eSports1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785939700207382%7CeSports1%20HD.ts
+#EXTINF:-1,Eurosport 2 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785892386751397%7CEurosport%202%20HD.ts
+#EXTINF:-1,Fix & Foxi
+http://192.168.113.190:7522/upnp/channelstream/3431785887809979339%7CFix%20%26%20Foxi.ts
+#EXTINF:-1,GEO TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785918157210527%7CGEO%20TV%20HD.ts
+#EXTINF:-1,HOME & GARDEN TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785943660282770%7CHOME%20%26%20GARDEN%20TV%20HD.ts
+#EXTINF:-1,kabel eins CLASSICS HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913577816968%7Ckabel%20eins%20CLASSICS%20HD.ts
+#EXTINF:-1,Kabel eins Doku HD
+http://192.168.113.190:7522/upnp/channelstream/3431785922547860390%7CKabel%20eins%20Doku%20HD.ts
+#EXTINF:-1,KinoweltTV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785918233232232%7CKinoweltTV%20HD.ts
+#EXTINF:-1,LUST PUR
+http://192.168.113.190:7522/upnp/channelstream/3431785874913281555%7CLUST%20PUR.ts
+#EXTINF:-1,NatGeo HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785918255514454%7CNatGeo%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,NatGeo Wild HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785935416378224%7CNatGeo%20Wild%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,Nick Jr. HD
+http://192.168.113.190:7522/upnp/channelstream/3431785909261878145%7CNick%20Jr.%20HD.ts
+#EXTINF:-1,ProSieben FUN HD
+http://192.168.113.190:7522/upnp/channelstream/3431785922285716361%7CProSieben%20FUN%20HD.ts
+#EXTINF:-1,Romance TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431785918248960868%7CRomance%20TV%20HD.ts
+#EXTINF:-1,RTL Crime HD
+http://192.168.113.190:7522/upnp/channelstream/3431785935171273636%7CRTL%20Crime%20HD.ts
+#EXTINF:-1,RTL Living HD
+http://192.168.113.190:7522/upnp/channelstream/3431785909561377696%7CRTL%20Living%20HD.ts
+#EXTINF:-1,RTLup HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913857000342%7CRTLup%20HD.ts
+#EXTINF:-1,SAT.1 emotions HD
+http://192.168.113.190:7522/upnp/channelstream/3431785913582404490%7CSAT.1%20emotions%20HD.ts
+#EXTINF:-1,Silverline
+http://192.168.113.190:7522/upnp/channelstream/3431785879183344769%7CSilverline.ts
+#EXTINF:-1,Sky One HD
+http://192.168.113.190:7522/upnp/channelstream/3431785918256169808%7CSky%20One%20HD.ts
+#EXTINF:-1,Spiegel Geschichte HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926840206182%7CSpiegel%20Geschichte%20HD.ts
+#EXTINF:-1,SPORT1+ HD
+http://192.168.113.190:7522/upnp/channelstream/3431785944024662869%7CSPORT1%2B%20HD.ts
+#EXTINF:-1,SPORTDIGITAL FUSSBALL HD
+http://192.168.113.190:7522/upnp/channelstream/3431785909270397830%7CSPORTDIGITAL%20FUSSBALL%20HD.ts
+#EXTINF:-1,SYFY HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785918256825176%7CSYFY%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,The HISTORY Channel HD
+http://192.168.113.190:7522/upnp/channelstream/3431785935417033585%7CThe%20HISTORY%20Channel%20HD.ts
+#EXTINF:-1,TLC HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965157401492%7CTLC%20HD.ts
+#EXTINF:-1,UNIVERSAL TV HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785935418344307%7CUNIVERSAL%20TV%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,Warner TV Comedy HD
+http://192.168.113.190:7522/upnp/channelstream/3431785918234542945%7CWarner%20TV%20Comedy%20HD.ts
+#EXTINF:-1,Warner TV Film HD
+http://192.168.113.190:7522/upnp/channelstream/3431785922547204946%7CWarner%20TV%20Film%20HD.ts
+#EXTINF:-1,Warner TV Serie HD (VF) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785922546549585%7CWarner%20TV%20Serie%20HD%20%28VF%29%20%28deu%29.ts
+#EXTINF:-1,DOKUSAT HD
+http://192.168.113.190:7522/upnp/channelstream/3431785904958391156%7CDOKUSAT%20HD.ts
+#EXTINF:-1,Heimatkanal
+http://192.168.113.190:7522/upnp/channelstream/3431785879216112505%7CHeimatkanal.ts
+#EXTINF:-1,Das Erste HD
+http://192.168.113.190:7522/upnp/channelstream/3431747430938191933%7CDas%20Erste%20HD.ts
+#EXTINF:-1,WDR HD Köln
+http://192.168.113.190:7522/upnp/channelstream/3431747430964424364%7CWDR%20HD%20K%C3%B6ln.ts
+#EXTINF:-1,SWR RP HD
+http://192.168.113.190:7522/upnp/channelstream/3431747430940158016%7CSWR%20RP%20HD.ts
+#EXTINF:-1,PHOENIX HD
+http://192.168.113.190:7522/upnp/channelstream/3431785904959006811%7CPHOENIX%20HD.ts
+#EXTINF:-1,arte HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926832302142%7Carte%20HD.ts
+#EXTINF:-1,hr-fernsehen HD
+http://192.168.113.190:7522/upnp/channelstream/3431785926825093235%7Chr%2Dfernsehen%20HD.ts
+#EXTINF:-1,tagesschau24 HD
+http://192.168.113.190:7522/upnp/channelstream/3431785943655655559%7Ctagesschau24%20HD.ts
+#EXTINF:-1,ARD alpha HD
+http://192.168.113.190:7522/upnp/channelstream/3431785943655000201%7CARD%20alpha%20HD.ts
+#EXTINF:-1,SR Fernsehen HD
+http://192.168.113.190:7522/upnp/channelstream/3431785943658932362%7CSR%20Fernsehen%20HD.ts
+#EXTINF:-1,BR Süd HD
+http://192.168.113.190:7522/upnp/channelstream/3431747645693110357%7CBR%20S%C3%BCd%20HD.ts
+#EXTINF:-1,NDR FS NDS HD
+http://192.168.113.190:7522/upnp/channelstream/3431747645694421079%7CNDR%20FS%20NDS%20HD.ts
+#EXTINF:-1,MDR Sachsen HD
+http://192.168.113.190:7522/upnp/channelstream/3431747645700974704%7CMDR%20Sachsen%20HD.ts
+#EXTINF:-1,rbb Berlin HD
+http://192.168.113.190:7522/upnp/channelstream/3431747551211038831%7Crbb%20Berlin%20HD.ts
+#EXTINF:-1,ONE HD
+http://192.168.113.190:7522/upnp/channelstream/3431785965163260040%7CONE%20HD.ts
+#EXTINF:-1,WDR Wuppertal
+http://192.168.113.190:7522/upnp/channelstream/3431785866272993143%7CWDR%20Wuppertal.ts
+#EXTINF:-1,WDR Bonn
+http://192.168.113.190:7522/upnp/channelstream/3431785866279481208%7CWDR%20Bonn.ts
+#EXTINF:-1,Das Erste (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747645358894538%7CDas%20Erste%20%28deu%29.ts
+#EXTINF:-1,BR Süd (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747645365448139%7CBR%20S%C3%BCd%20%28deu%29.ts
+#EXTINF:-1,hr-fernsehen (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747645372001740%7Chr%2Dfernsehen%20%28deu%29.ts
+#EXTINF:-1,WDR Köln (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747645391662543%7CWDR%20K%C3%B6ln%20%28deu%29.ts
+#EXTINF:-1,SWR Fernsehen RP (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747645555502663%7CSWR%20Fernsehen%20RP%20%28deu%29.ts
+#EXTINF:-1,Radio Bremen TV HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525449754763%7CRadio%20Bremen%20TV%20HD%20%28deu%29.ts
+#EXTINF:-1,BR Nord (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525126024654%7CBR%20Nord%20%28deu%29.ts
+#EXTINF:-1,SWR Fernsehen BW (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525145685457%7CSWR%20Fernsehen%20BW%20%28deu%29.ts
+#EXTINF:-1,rbb Brandenburg (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525132578349%7Crbb%20Brandenburg%20%28deu%29.ts
+#EXTINF:-1,rbb Berlin (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525132578350%7Crbb%20Berlin%20%28deu%29.ts
+#EXTINF:-1,NDR FS MV (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525263650368%7CNDR%20FS%20MV%20%28deu%29.ts
+#EXTINF:-1,NDR FS HH (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525263650369%7CNDR%20FS%20HH%20%28deu%29.ts
+#EXTINF:-1,NDR FS NDS (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525263650370%7CNDR%20FS%20NDS%20%28deu%29.ts
+#EXTINF:-1,NDR FS SH (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525263650371%7CNDR%20FS%20SH%20%28deu%29.ts
+#EXTINF:-1,MDR SACHSEN (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525283311172%7CMDR%20SACHSEN%20%28deu%29.ts
+#EXTINF:-1,MDR S-ANHALT (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525283311173%7CMDR%20S%2DANHALT%20%28deu%29.ts
+#EXTINF:-1,MDR THÜRINGEN (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747525283311174%7CMDR%20TH%C3%9CRINGEN%20%28deu%29.ts
+#EXTINF:-1,Radio Bremen TV
+http://192.168.113.190:7522/upnp/channelstream/3431747525363265249%7CRadio%20Bremen%20TV.ts
+#EXTINF:-1,SR Fernsehen (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747430689173218%7CSR%20Fernsehen%20%28deu%29.ts
+#EXTINF:-1,ZDF HD
+http://192.168.113.190:7522/upnp/channelstream/3431747551263992678%7CZDF%20HD.ts
+#EXTINF:-1,zdf_neo HD
+http://192.168.113.190:7522/upnp/channelstream/3431785904956386170%7Czdf%5Fneo%20HD.ts
+#EXTINF:-1,ZDFinfo HD
+http://192.168.113.190:7522/upnp/channelstream/3431747551303314338%7CZDFinfo%20HD.ts
+#EXTINF:-1,KiKA HD
+http://192.168.113.190:7522/upnp/channelstream/3431785904949504920%7CKiKA%20HD.ts
+#EXTINF:-1,3sat HD
+http://192.168.113.190:7522/upnp/channelstream/3431785939719170958%7C3sat%20HD.ts
+#EXTINF:-1,ZDF (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747550870793574%7CZDF%20%28deu%29.ts
+#EXTINF:-1,3sat (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747550877347175%7C3sat%20%28deu%29.ts
+#EXTINF:-1,KiKA (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747550883900776%7CKiKA%20%28deu%29.ts
+#EXTINF:-1,ZDFinfo (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747550903561579%7CZDFinfo%20%28deu%29.ts
+#EXTINF:-1,zdf_neo (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431747550906838382%7Czdf%5Fneo%20%28deu%29.ts
+#EXTINF:-1,DIE NEUE ZEIT TV
+http://192.168.113.190:7522/upnp/channelstream/3431785947925760937%7CDIE%20NEUE%20ZEIT%20TV.ts
+#EXTINF:-1,Nederland 2
+http://192.168.113.190:7522/upnp/channelstream/3431785948343227458%7CNederland%202.ts
+#EXTINF:-1,Bloomberg
+http://192.168.113.190:7522/upnp/channelstream/3431785947914622026%7CBloomberg.ts
+#EXTINF:-1,TRT Türk
+http://192.168.113.190:7522/upnp/channelstream/3431785947915932748%7CTRT%20T%C3%BCrk.ts
+#EXTINF:-1,Handystar
+http://192.168.113.190:7522/upnp/channelstream/3431785947921175629%7CHandystar.ts
+#EXTINF:-1,RiC
+http://192.168.113.190:7522/upnp/channelstream/3431785947922486352%7CRiC.ts
+#EXTINF:-1,NRWision HD
+http://192.168.113.190:7522/upnp/channelstream/3431785948342572160%7CNRWision%20HD.ts
+#EXTINF:-1,Netflix
+http://192.168.113.190:7522/upnp/channelstream/3431785947926418574%7CNetflix.ts
+#EXTINF:-1,Sky Sport Bundesliga HD
+http://192.168.113.190:7522/upnp/channelstream/3431742968149704809%7CSky%20Sport%20Bundesliga%20HD.ts
+#EXTINF:-1,Sky Sport News HD
+http://192.168.113.190:7522/upnp/channelstream/3431742968200101996%7CSky%20Sport%20News%20HD.ts
+#EXTINF:-1,DAZN 2 (Sky) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785952586417978%7CDAZN%202%20%28Sky%29%20%28deu%29.ts
+#EXTINF:-1,DAZN 1 (Sky) (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431785909264500537%7CDAZN%201%20%28Sky%29%20%28deu%29.ts
+#EXTINF:-1,Sky Nature HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942564515958%7CSky%20Nature%20HD.ts
+#EXTINF:-1,Warner TV Serie HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942379966587%7CWarner%20TV%20Serie%20HD.ts
+#EXTINF:-1,Sky Sport Top Event HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942413455489%7CSky%20Sport%20Top%20Event%20HD.ts
+#EXTINF:-1,Discovery HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942430298242%7CDiscovery%20HD.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942447075459%7CSky%20Cinema%20Premiere%20HD.ts
+#EXTINF:-1,Sky Showcase HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942396743822%7CSky%20Showcase%20HD.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431742942514118924%7CSky%20Sport%201%20HD.ts
+#EXTINF:-1,Sky Crime HD
+http://192.168.113.190:7522/upnp/channelstream/3431742929495064589%7CSky%20Crime%20HD.ts
+#EXTINF:-1,Sky Sport Golf HD
+http://192.168.113.190:7522/upnp/channelstream/3431742929528553616%7CSky%20Sport%20Golf%20HD.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://192.168.113.190:7522/upnp/channelstream/3431742933907406865%7CSky%20Sport%20F1%20HD.ts
+#EXTINF:-1,Sky Sport Premier League HD
+http://192.168.113.190:7522/upnp/channelstream/3431742933890629777%7CSky%20Sport%20Premier%20League%20HD.ts
+#EXTINF:-1,Sky Krimi HD
+http://192.168.113.190:7522/upnp/channelstream/3431742920955461655%7CSky%20Krimi%20HD.ts
+#EXTINF:-1,Universal TV HD
+http://192.168.113.190:7522/upnp/channelstream/3431742920989016165%7CUniversal%20TV%20HD.ts
+#EXTINF:-1,Sky Replay HD
+http://192.168.113.190:7522/upnp/channelstream/3431742921005793404%7CSky%20Replay%20HD.ts
+#EXTINF:-1,SYFY HD
+http://192.168.113.190:7522/upnp/channelstream/3431742920921907326%7CSYFY%20HD.ts
+#EXTINF:-1,13th Street HD
+http://192.168.113.190:7522/upnp/channelstream/3431742920938684543%7C13th%20Street%20HD.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://192.168.113.190:7522/upnp/channelstream/3431742920905064589%7CSky%20Sport%20Mix%20HD.ts
+#EXTINF:-1,Sky Documentaries HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742968166547568%7CSky%20Documentaries%20HD%20%28deu%29.ts
+#EXTINF:-1,Beate Uhse HD
+http://192.168.113.190:7522/upnp/channelstream/3431742968183324805%7CBeate%20Uhse%20HD.ts
+#EXTINF:-1,Sky Sport Bundesliga UHD (qab)
+http://192.168.113.190:7522/upnp/channelstream/3431742968216814120%7CSky%20Sport%20Bundesliga%20UHD%20%28qab%29.ts
+#EXTINF:-1,Warner TV Film (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742942480433557%7CWarner%20TV%20Film%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Classics HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742929578950763%7CSky%20Cinema%20Classics%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Highlights HD
+http://192.168.113.190:7522/upnp/channelstream/3431742929595727983%7CSky%20Cinema%20Highlights%20HD.ts
+#EXTINF:-1,Sky Sport Tennis HD (qae)
+http://192.168.113.190:7522/upnp/channelstream/3431742929545330802%7CSky%20Sport%20Tennis%20HD%20%28qae%29.ts
+#EXTINF:-1,Nick.Jr. (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742929662640266%7CNick.Jr.%20%28deu%29.ts
+#EXTINF:-1,Romance TV
+http://192.168.113.190:7522/upnp/channelstream/3431742929561978855%7CRomance%20TV.ts
+#EXTINF:-1,Cartoonito (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742933806612508%7CCartoonito%20%28deu%29.ts
+#EXTINF:-1,Sky Atlantic HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742933857140846%7CSky%20Atlantic%20HD%20%28deu%29.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://192.168.113.190:7522/upnp/channelstream/3431742933789835403%7CSky%20Cinema%20Family%20HD.ts
+#EXTINF:-1,Sky One HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742933823586451%7CSky%20One%20HD%20%28deu%29.ts
+#EXTINF:-1,HISTORY Channel
+http://192.168.113.190:7522/upnp/channelstream/3431742933840365544%7CHISTORY%20Channel.ts
+#EXTINF:-1,Sky Cinema Action HD (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742921055928436%7CSky%20Cinema%20Action%20HD%20%28deu%29.ts
+#EXTINF:-1,Service 1
+http://192.168.113.190:7522/upnp/channelstream/3431742972493430785%7CService%201.ts
+#EXTINF:-1,Warner TV Comedy (deu)
+http://192.168.113.190:7522/upnp/channelstream/3431742942463657961%7CWarner%20TV%20Comedy%20%28deu%29.ts
